@@ -1,0 +1,12 @@
+[submodule "alurafood-ms-eureka-server"]
+	path = alurafood-ms-eureka-server
+	url = https://github.com/rmarques90/alurafood-ms-eureka-server
+[submodule "alurafood-ms-gateway"]
+	path = alurafood-ms-gateway
+	url = https://github.com/rmarques90/alurafood-ms-gateway
+[submodule "alurafood-ms-payments"]
+	path = alurafood-ms-payments
+	url = https://github.com/rmarques90/alurafood-ms-payments
+[submodule "alurafood-ms-orders"]
+	path = alurafood-ms-orders
+	url = https://github.com/rmarques90/alurafood-ms-orders
